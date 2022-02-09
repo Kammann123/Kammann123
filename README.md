@@ -17,25 +17,25 @@ I've worked with other technologies for my personal projects or for the universi
 <!-- Using repository cards from https://github.com/anuraghazra/github-readme-stats -->
 ## 📕 Projects I've worked on
 <p align="left">
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/asp-image-dsp/cyclops">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=asp-image-dsp&repo=cyclops&theme=tokyonight&hide_border=true" alt="Cyclops">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Kammann123/Catan">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=Catan&theme=tokyonight&hide_border=true" alt="Catan">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Shawarma-ASSD/spatialmeetings">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarma-ASSD&repo=spatialmeetings&theme=tokyonight&hide_border=true" alt="SpatialMeetings">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Lab-de-microprocesadores-G1/mp3-player">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=mp3-player&theme=tokyonight&hide_border=true" alt="mp3-player">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Kammann123/cifar100">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=cifar100&theme=tokyonight&hide_border=true" alt="cifar100">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Kammann123/frogger">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=frogger&theme=tokyonight&hide_border=true" alt="frogger">
     </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <a href="https://github.com/Kammann123/ev21g1">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=ev21g1&theme=tokyonight&hide_border=true" alt="EV21G1">
     </a>
 </p>
