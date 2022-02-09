@@ -18,25 +18,22 @@ I've worked with other technologies for my personal projects or for the universi
 ## 📕 Projects I've worked on
 <p align="left">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=asp-image-dsp&repo=cyclops&theme=tokyonight" alt="Cyclops">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=asp-image-dsp&repo=cyclops&theme=tokyonight&hide_border=true" alt="Cyclops">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=ev21g1&theme=tokyonight" alt="EV21G1">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=ev21g1&theme=tokyonight&hide_border=true" alt="EV21G1">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=frogger&theme=tokyonight" alt="Frogger">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=Catan&theme=tokyonight&hide_border=true" alt="Catan">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=Catan&theme=tokyonight" alt="Catan">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarma-ASSD&repo=spatialmeetings&theme=tokyonight&hide_border=true" alt="SpatialMeetings">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Shawarma-ASSD&repo=spatialmeetings&theme=tokyonight" alt="SpatialMeetings">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=mp3-player&theme=tokyonight&hide_border=true" alt="mp3-player">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Lab-de-microprocesadores-G1&repo=mp3-player&theme=tokyonight" alt="mp3-player">
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img width="282" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=cifar100&theme=tokyonight" alt="cifar100">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=cifar100&theme=tokyonight&hide_border=true" alt="cifar100">
     </a>
 </p>
 
@@ -61,4 +58,4 @@ I've worked with other technologies for my personal projects or for the universi
 ![C#](https://img.shields.io/badge/--000?logo=csharp)
 
 ## 💻 Github Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kammann123&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kammann123&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
