@@ -21,9 +21,6 @@ I've worked with other technologies for my personal projects or for the universi
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=asp-image-dsp&repo=cyclops&theme=tokyonight&hide_border=true" alt="Cyclops">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=ev21g1&theme=tokyonight&hide_border=true" alt="EV21G1">
-    </a>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=Catan&theme=tokyonight&hide_border=true" alt="Catan">
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -34,6 +31,12 @@ I've worked with other technologies for my personal projects or for the universi
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
         <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=cifar100&theme=tokyonight&hide_border=true" alt="cifar100">
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=frogger&theme=tokyonight&hide_border=true" alt="frogger">
+    </a>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Kammann123&repo=ev21g1&theme=tokyonight&hide_border=true" alt="EV21G1">
     </a>
 </p>
 
