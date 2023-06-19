@@ -1,15 +1,14 @@
 <h2 align="center">👋 Hello! I'm Lucas</h2>
 
-I'm a final-year student of electronics engineer at ITBA in Buenos Aires, Argentina. 
+Hello! I'm Lucas, an Electronics Engineer from the ITBA (Instituto Tecnológico de Buenos Aires). With a versatile background in hardware, software, and firmware, I've had the opportunity to work on various projects. My expertise lies in developing for embedded devices like FPGAs and microcontrollers, where I've utilized languages such as C and C++. Additionally, I'm skilled in capturing schematics and designing PCB layouts using professional tools like Altium Designer.
 
-I'm passionate about hardware and software engineering. I've been working for more than a year developing hardware (PCBs in Altium) and software for embedded devices (some of which were for IoT applications). 
 
-I've worked with other technologies for my personal projects or for the university courses, such as web development, neural networks or deep learning, among others.
+I'm passionate about learning new skills and solving problems using technology, even more, when it represents a challenge.
 
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 ## 🙋‍♂️ Connect with me 
 <p align="center">
-    <a href="https://www.linkedin.com/in/lucas-agust%C3%ADn-kammann-90010b157/"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+    <a href="[https://www.linkedin.com/in/lucas-agust%C3%ADn-kammann-90010b157/](https://www.linkedin.com/in/lkammann/)"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://github.com/DenverCoder1?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Kammann123?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
